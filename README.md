@@ -5,3 +5,6 @@ EOSERV-WebCP panel with Expanded Database Menu - Theme
 - WebCP originally published by Sausage(Julian Smythe) [Eoserv WebCP](https://github.com/eoserv/webcp)
 - WebCP Database expanded upon by Apollo [WebCP Database](https://github.com/Apollo-EE/WebCP-Full-Database)
 - WebCP Database Theme by [Vexx](https://vexx.info)
+
+![Light Mode Example](https://vexx.info/img/1.PNG)
+![Dark Mode Example](https://vexx.info/img/2.PNG)
