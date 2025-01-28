@@ -3,7 +3,7 @@
 :root {
 
 
-	/* ----- SITE COLORS ------ */
+    /* ----- SITE COLORS ------ */
     --primary-color: #36393e;
     --secondary-color: #2c2f33;
     --accent-color: #7289da;
@@ -15,9 +15,9 @@
     
     --light-text: #FFFFFF;
 	
-	--transparent-light: #ffffffd7;
-	--dropdown-background: #2c2f33ec;
-	--dropdown-background-hover: #7289da;
+    --transparent-light: #ffffffd7;
+    --dropdown-background: #2c2f33ec;
+    --dropdown-background-hover: #7289da;
 
     /* ----- DARKMODE TOGGLE ------ */
     --darkmode-toggle-off: #ccc;
@@ -36,8 +36,8 @@
     --shadow-color: #03030399;
     --shadow-color-2: #0000001b;
 
-	/* ----- FONTS ------ */
-	--font: Arial, sans-serif;
+    /* ----- FONTS ------ */
+    --font: Arial, sans-serif;
 }
 
 * { margin: 0; padding: 0; }
