@@ -1,5 +1,5 @@
 # WebCP-Full Database (Template)
-EOSERV-WebCP panel with Expanded Database Menu - Template
+EOSERV-WebCP panel with Expanded Database Menu - Template<br>
 All Filepaths setup for `/tpl/eo/`
 
 ## Credits
