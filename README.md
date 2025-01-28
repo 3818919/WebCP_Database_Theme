@@ -1,5 +1,5 @@
-# WebCP-Full Database (Theme)
-EOSERV-WebCP panel with Expanded Database Menu - Theme
+# WebCP-Full Database (Template)
+EOSERV-WebCP panel with Expanded Database Menu - Template
 
 ## Credits
 - WebCP originally published by Sausage(Julian Smythe) [Eoserv WebCP](https://github.com/eoserv/webcp)
