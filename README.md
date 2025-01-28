@@ -1,5 +1,6 @@
 # WebCP-Full Database (Template)
 EOSERV-WebCP panel with Expanded Database Menu - Template
+All Filepaths setup for `/tpl/eo/`
 
 ## Credits
 - WebCP originally published by Sausage(Julian Smythe) [Eoserv WebCP](https://github.com/eoserv/webcp)
