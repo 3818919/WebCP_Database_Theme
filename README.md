@@ -8,5 +8,5 @@ All Filepaths setup for `/tpl/eo/`
 - WebCP Database Theme by [Vexx](https://vexx.info)
 - Character Illustrations by Zolty
 
-![Light Mode Example]([https://vexx.info/img/1.PNG](https://iili.io/3loAzdJ.md.png))
-![Dark Mode Example]([https://vexx.info/img/2.PNG](https://iili.io/3loAoga.md.png))
+![Light Mode Example](https://iili.io/3loAzdJ.md.png)
+![Dark Mode Example](https://iili.io/3loAoga.md.png)
